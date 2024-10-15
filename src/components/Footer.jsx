@@ -76,7 +76,7 @@ const Footer = () => {
 
               <motion.p className="flex items-center" whileHover={{ scale: 1.1 }}>
                 <FontAwesomeIcon icon={faMapMarkerAlt} className="mr-2" />
-                Lot 2I Ankadivato
+                Antananarivo Madagascar
               </motion.p>
             </div>
           </div>
